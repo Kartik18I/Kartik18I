@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Kartik18I/assets/blob/main/ChatGPT%20Image%20Jul%206,%202026,%2003_56_00%20PM.png?raw=true" width="100%">
+</p>
 # Hi, I'm Kartik Gaikwad 👋
 
 ## 🎓 About Me
